@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-    <a href="https://1drv.ms/p/s!AhBQOgTCTflFrT4KUIroGUoGUGX3?e=sKpoBy" target="_blank">
-    <img src="https://github.com/nozaripo/Images-Links/blob/main/PhD_Defense_FirstPg.png" width="900"  />
+    <a href="https://1drv.ms/p/s!AhBQOgTCTflFrT4KUIroGUoGUGX3?e=sKpoBy" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/nozaripo/Images-Links/blob/main/PhD_Defense_FirstPg.png" width="900"/>
     </a>
 </p>
