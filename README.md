@@ -14,9 +14,10 @@
 </h4>
 
 ---
+Click below to see the slides deck.
 
 <p align="center">
-    <a href="https://github.com/nozaripo/Portfolio" target="_blank">
-    <img src="https://github.com/nozaripo/Images-Links/blob/main/Data%20Science%20Portfolio%20-%20Link%20Image.png" width="550"  />
+    <a href="https://1drv.ms/p/s!AhBQOgTCTflFrT4KUIroGUoGUGX3?e=sKpoBy" target="_blank">
+    <img src="https://github.com/nozaripo/Images-Links/blob/main/PhD_Defense_FirstPg.png" width="700"  />
     </a>
 </p>
